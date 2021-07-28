@@ -381,6 +381,10 @@ function hmrAcceptRun(bundle/*: ParcelRequire */ , id/*: string */ ) {
 }
 
 },{}],"7qT7c":[function(require,module,exports) {
+const chk = document.getElementById('chk');
+chk.addEventListener('change', ()=>{
+    document.body.classList.toggle('dark');
+});
 
 },{}]},["7fvJK","7qT7c"], "7qT7c", "parcelRequire1c1a")
 
