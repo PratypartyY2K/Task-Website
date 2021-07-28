@@ -5,6 +5,11 @@ Simple Website for internship
  - Responsive body
  - Responsive Sidebar 
 
+**Run locally**
+```bash
+git clone https://github.com/PratypartyY2K/Task-Website.git
+```
+
 **To install npm sass**
 ```bash
 npm install sass -D
@@ -20,5 +25,7 @@ npm install -D parcel@next
 npm start
 ```
 
-**Tech stack used**
-HTML, CSS(SCSS), JavaScript
+**Tech stack used**  
+- HTML
+- CSS(Sass)
+- JavaScript
